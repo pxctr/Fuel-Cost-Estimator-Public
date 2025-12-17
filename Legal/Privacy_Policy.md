@@ -8,7 +8,7 @@ Personal Information: We do not ask for your name, email address, phone number, 
 
 Usage Data: The app processes all conversions (Fuel, Cost) locally on your device. No input data is transmitted to external servers.
 
-Third-Party Services Since the application does not collect data, we do not share any user information with third parties. If the application is downloaded via the Apple App Store, Apple may collect standard anonymous technical data (e.g., crash reports or installation counts) governed by Apple’s own privacy policy.
+Third-Party Services Since the application does not collect data, we do not share any user information with third parties. If the application is downloaded via the Apple App Store, Apple may collect standard anonymous technical data (e.g, crash reports or installation counts) governed by Apple’s own privacy policy.
 
 Children’s Privacy Our Service does not address anyone under the age of 4. We do not knowingly collect personally identifiable information from children.
 
